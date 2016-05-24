@@ -1,17 +1,17 @@
 #field {
-	width:500px;
-	height:500px;
+	width:545px;
+	height:545px;
 }
 .square {
-	width:156px;
-	height:162px;
+	width:170px;
+	height:170px;
 	border:2px solid black;
 	float:left;
 }
 .number {
 	float:left;
-	width:50px;
-	height:50px;
+	width:52px;
+	height:52px;
 	font-size:50px;
 	border:1px solid black;
 	text-align:center;
